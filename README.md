@@ -4,12 +4,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ FIBI! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am Fibi  
 *Digital Craftsman (Developer / Programmer)*  
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer with a huge love for React.js, Node.js. </p>
+<p align="left">I am a Frontend Developer with a huge love for React.js, Node.js, and exploring new technologies.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -19,26 +19,24 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FibiAtef&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="FibiAtef" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=fibi2006&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="fibi2006" style="padding-right:20px;" />
 </p>
 
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
-<br clear="left"/>
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Student at Faculty of Computer Science and Information Technology.</li>
-  <li>Studying a Frontend course at DEPI.</li>
-</ul>
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
+<div align="center">
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
+</div>
+<br />
 
 ---
 
@@ -54,12 +52,12 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
+
 <a href="mailto:fibiatef122@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width=50 height=50 alt="fibiatef122@gmail.com" />
 </a>
 
-<a href="https://github.com/FibiAtef" target="_blank">
+<a href="https://github.com/fibi2006" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width=50 height=50 alt="GitHub" />
 </a>
 
